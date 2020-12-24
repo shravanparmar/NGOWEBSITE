@@ -1,0 +1,41 @@
+[vc_row height="auto" width="full"][vc_column][us_single_image image="193" size="full" align="center"][/vc_column][/vc_row][vc_row content_placement="middle" height="medium"][vc_column][vc_column_text]
+<h2 class="ra-head">Empowering millions of students in making the right career and college decision</h2>
+[/vc_column_text][/vc_column][/vc_row][vc_row height="medium" us_bg_overlay_color="#0f838e"][vc_column width="1/6"][/vc_column][vc_column width="2/3"][vc_tta_tabs el_class="r-tabs"][vc_tta_section title="MU AFFILIATED" tab_id="1537816967127-b7404f13-af9b"][vc_row_inner][vc_column_inner width="1/2"][vc_column_text]
+<h2 class="rb-head">700+</h2>
+<p class="rb-para">COLLEGES &amp; UNIVERSITIES</p>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2"][vc_column_text]
+<h2 class="rb-head">1100+</h2>
+<p class="rb-para">COLLEGE REVIEWS</p>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_tta_section][vc_tta_section title="NAAC ACCREDITED" tab_id="1537816967145-254a3821-aad9"][vc_row_inner][vc_column_inner width="1/2"][vc_column_text]
+<h2 class="rb-head">100+</h2>
+<p class="rb-para">COLLEGES &amp; UNIVERSITIES</p>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2"][vc_column_text]
+<h2 class="rb-head">400+</h2>
+<p class="rb-para">COLLEGE REVIEWS</p>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_tta_section][/vc_tta_tabs][/vc_column][vc_column width="1/6"][/vc_column][/vc_row][vc_row el_class="rd-row"][vc_column][vc_tta_tabs][vc_tta_section title="Diploma" tab_id="1537818199350-240a8739-87a7"][vc_row_inner el_class="course-sec"][vc_column_inner width="1/4"][us_single_image image="206" size="full" align="center"][vc_column_text]
+<p class="rc-para">Exams</p>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4"][us_single_image image="209" size="full" align="center"][vc_column_text]
+<p class="rc-para">Rankings</p>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4"][us_single_image image="208" size="full" align="center"][vc_column_text]
+<p class="rc-para">Find Colleges</p>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4"][us_single_image image="207" size="full" align="center"][vc_column_text]
+<p class="rc-para">Reviews</p>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_tta_section][vc_tta_section title="Bachelors" tab_id="1537818199366-f9da16d9-2f30"][vc_row_inner el_class="course-sec"][vc_column_inner width="1/4"][us_single_image image="206" size="full" align="center"][vc_column_text]
+<p class="rc-para">Entrance Exams</p>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4"][us_single_image image="210" size="full" align="center"][vc_column_text]
+<p class="rc-para">Courses Offered</p>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4"][us_single_image image="208" size="full" align="center"][vc_column_text]
+<p class="rc-para">Find Colleges</p>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4"][us_single_image image="207" size="full" align="center"][vc_column_text]
+<p class="rc-para">Reviews</p>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_tta_section][vc_tta_section title="Masters" tab_id="1537818267761-11413591-622b"][vc_row_inner el_class="course-sec"][vc_column_inner width="1/4"][us_single_image image="206" size="full" align="center"][vc_column_text]
+<p class="rc-para">Entrance Exams</p>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4"][us_single_image image="210" size="full" align="center"][vc_column_text]
+<p class="rc-para">Courses Offered</p>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4"][us_single_image image="208" size="full" align="center"][vc_column_text]
+<p class="rc-para">Find Colleges</p>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4"][us_single_image image="207" size="full" align="center"][vc_column_text]
+<p class="rc-para">Reviews</p>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_tta_section][/vc_tta_tabs][/vc_column][/vc_row][vc_row content_placement="middle" height="medium"][vc_column][vc_column_text]
+<h2 class="rd-head">FEATURED COLLEGES</h2>
+[/vc_column_text][vc_empty_space][us_logos type="grid" style="3" items="%5B%7B%22image%22%3A%22216%22%7D%2C%7B%22image%22%3A%22217%22%7D%2C%7B%22image%22%3A%22215%22%7D%2C%7B%22image%22%3A%22213%22%7D%2C%7B%22image%22%3A%22212%22%7D%5D"][/vc_column][/vc_row]
